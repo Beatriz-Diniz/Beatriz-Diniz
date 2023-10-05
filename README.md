@@ -5,4 +5,5 @@
 ### GitHub Stats
 ![mocha user preview](https://github-readme-stats.vercel.app/api?username=Beatriz-Diniz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=94e2d5)
 ![mocha user preview](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Beatriz-Diniz&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=94e2d5)
+
 <p align="center"><img src="gray0_ctp_on_line.svg?sanitize=true" /></p>
