@@ -29,7 +29,7 @@
 <h2> Connect with me </h2> 
 
 <p align="center">
-	<a href="https://github.com/Beatriz-Diniz" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<!---><a href="https://github.com/Beatriz-Diniz" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a><---->
 	<a href="https://www.linkedin.com/in/beatriz-diniz-b3249a245/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:dinyzbeatriz@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
