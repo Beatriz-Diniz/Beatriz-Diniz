@@ -1,40 +1,110 @@
 <p align="center"><img src="bongo-cat-code.svg" width="300"></p>
 <h1 align="center"> Hi, I'm Beatriz Diniz!  </h1> 
-<h4 align="center"> Computer Science student at the University of São Paulo </h4>
+<h4 align="center"> Computer Scientist • UAV Network Researcher • Software Developer </h4>
 
 <h2> About me </h2> 
 
 <ul>
-  <li>🎓 I am a Computer Science student at the University of São Paulo, set to graduate in December 2024.</li>
-  <li>🎮 Passionate about game development, I worked as a 2D Game Developer at Fellowship of the Game, where I crafted games using Unity and C#, handling everything from character movements to complex game systems.</li>
-  <li>🔬 Currently engaged in a research project at the Laboratory of Critical Embedded Systems (LSEC), focusing on network protocols for UAVs to optimize real-time communications.</li>
-  <li>👾 I've implemented a variety of projects, from chatroom applications in C++ to advanced FPGA processor optimizations, constantly pushing the envelope on what I can create and improve with code.</li>
-  <li>💡 I thrive on problem-solving and innovation, always eager to dive into new technologies and challenging projects.</li>
-  <li>🌐 Avid learner and technology enthusiast, I am always exploring new programming languages and tools to stay at the cutting edge of software development.</li>
-  <li>🐧 As a proficient Linux user, I leverage its powerful features for development and research, enhancing my productivity and the reliability of my work.</li>
-  <li>🤝 I am committed to contributing to open source projects and collaborating with other developers to build solutions that impact our world positively.</li>
+  <li>🎓 I graduated with a degree in Computer Science from the University of São Paulo in December 2025.</li>
+
+  <li>🎮 Former 2D Game Developer at Fellowship of the Game, developing gameplay systems and mechanics with Unity and C#.</li>
+
+  <li>🔬 Researcher at the Laboratory of Critical Embedded Systems (LSEC), focusing on UAV swarm communication systems, cybersecurity, and modern PX4/Gazebo-based simulation environments.</li>
+
+  <li>🐧 Linux user focused on development, simulation, cybersecurity research, and high-performance workflows.</li>
+</ul>
+
+<h2> Current Focus </h2>
+
+<ul>
+  	<li>🚁 UAV swarm communication protocols</li>
+	<li>📡 Jamming attack simulation for autonomous aerial systems</li>
+	<li>🐧 Linux-based development and simulation environments</li>
+	<li>⚙️ PX4, Gazebo Harmonic and robotics simulation</li>
+</ul>
+
+<h2> Featured Projects </h2>
+
+<ul>
+  <li>
+    <b>UAV Cybersecurity Simulation Research</b> — Modernization and development of PX4/Gazebo-based UAV simulation environments for cybersecurity research, including jamming attack simulation, countermeasure evaluation, and communication reliability analysis in autonomous aerial systems.
+  </li>
+
+  <li>
+    <b>UAV Swarm Communication Network</b> — Development of a Raspberry Pi-based mesh network to simulate UAV swarm communication and evaluate real-time communication protocols for autonomous aerial coordination.
+  </li>
+
+  <li>
+    <b>2D Game Development</b> — Gameplay systems, mechanics, and game architecture developed with Unity and C# during my experience at Fellowship of the Game.
+  </li>
+
+  <li>
+    <b>Chatroom Application in C++</b> — Multi-client communication system developed in C++ with focus on networking concepts and concurrent communication.
+  </li>
+</ul>
+
+<h2> Publications </h2>
+
+<ul>
+  <li>
+    📄 
+    <a href="https://ieeexplore.ieee.org/document/11007820" target="_blank">
+      Comparative Performance Analysis of OLSR, BATMAN-ADV, and Babel in UAV Mesh Networks
+    </a>
+    — IEEE
+  </li>
+
+  <li>
+    📄 
+    <a href="https://ieeexplore.ieee.org/document/11007925" target="_blank">
+      Collaborative Intrusion Detection System for Network and Flight Security in Unmanned Aerial Vehicles Group
+    </a>
+    — IEEE
+  </li>
 </ul>
 
 <h2> Languages and Tools </h2> 
 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=f9e2af)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=eba0ac)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=cba6f7)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=89dceb)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=94e2d5)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=a6e3a1)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=cba6f7)&nbsp;
+
+![PX4](https://img.shields.io/badge/-PX4-05122A?style=flat&logo=px4&logoColor=94e2d5)&nbsp;
+![Gazebo](https://img.shields.io/badge/-Gazebo-05122A?style=flat&logo=gazebo&logoColor=f38ba8)&nbsp;
+![ROS2](https://img.shields.io/badge/-ROS2-05122A?style=flat&logo=ros&logoColor=89b4fa)&nbsp;
+
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=89b4fa)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=b4befe)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=f5c2e7)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=eba0ac)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle&logoColor=f38ba8)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=cba6f7)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=89dceb)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=fab387)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=a6e3a1)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle&logoColor=f38ba8)&nbsp;
+
+
 
 <h2> GitHub Stats </h2> 
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Beatriz Diniz's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Beatriz-Diniz&show_icons=true&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=94e2d5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Beatriz Diniz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriz-DIniz&langs_count=8&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=94e2d5&border_radius=10" /></a>
+  <a>
+    <img 
+      height="175em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beatriz-Diniz&show_icons=true&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=94e2d5&border_radius=10"
+    />
+  </a>
+ &nbsp;&nbsp;
+
+  <a>
+    <img 
+      height="175em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beatriz-Diniz&layout=compact&langs_count=8&card_width=320&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=94e2d5&border_radius=10"
+    />
+  </a>
 </p>
+
 
 <h2> Connect with me </h2> 
 
@@ -46,4 +116,9 @@
 	
 </p>
 
+<h3 align="center">
+Open to Software Engineering, Embedded Systems and UAV Research opportunities
+</h3>
+
 <p align="center"><img src="gray0_ctp_on_line.svg?sanitize=true"/></p>
+
