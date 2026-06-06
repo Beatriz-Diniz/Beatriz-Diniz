@@ -1,6 +1,7 @@
 <p align="center"><img src="bongo-cat-code.svg" width="300"></p>
 <h1 align="center"> Hi, I'm Beatriz Diniz!  </h1> 
 <h4 align="center"> Computer Scientist • UAV Network Researcher • Software Developer </h4>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Beatriz-Diniz&color=yellow" alt="Profile views" /> </p> -->
 
 <h2> About me </h2> 
 
