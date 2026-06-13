@@ -95,7 +95,7 @@
 <p align="center">
   <a>
     <img 
-      height="175em"
+      height="150em"
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beatriz-Diniz&show_icons=true&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=eb6f92&title_color=eb6f92&border_color=eb6f92&border_radius=10"
     />
   </a>
@@ -103,7 +103,7 @@
 
   <a>
     <img 
-      height="175em"
+      height="150em"
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beatriz-Diniz&layout=compact&langs_count=8&card_width=320&bg_color=1e1e2e&text_color=cdd6f4&icon_color=eb6f92&title_color=eb6f92&border_color=eb6f92&border_radius=10"
     />
   </a>
