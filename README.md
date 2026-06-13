@@ -1,7 +1,10 @@
 <p align="center"><img src="bongo-cat-code.svg" width="300"></p>
 <h1 align="center"> Hi, I'm Beatriz Diniz!  </h1> 
-<h4 align="center"> Computer Scientist • UAV Network Researcher • Software Developer </h4>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Beatriz-Diniz&color=yellow" alt="Profile views" /> </p> -->
+<p align="center">
+  <b>Computer Scientist • UAV Network Researcher • Software Developer</b>
+  &nbsp;
+  <img align="center" src="https://komarev.com/ghpvc/?username=Beatriz-Diniz&color=eb6f92&style=flat" alt="Profile views" />
+</p>
 
 <h2> About me </h2> 
 
@@ -93,7 +96,7 @@
   <a>
     <img 
       height="175em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beatriz-Diniz&show_icons=true&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=94e2d5&border_radius=10"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beatriz-Diniz&show_icons=true&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=eb6f92&title_color=eb6f92&border_color=eb6f92&border_radius=10"
     />
   </a>
  &nbsp;&nbsp;
@@ -101,7 +104,7 @@
   <a>
     <img 
       height="175em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beatriz-Diniz&layout=compact&langs_count=8&card_width=320&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=94e2d5&border_radius=10"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beatriz-Diniz&layout=compact&langs_count=8&card_width=320&bg_color=1e1e2e&text_color=cdd6f4&icon_color=eb6f92&title_color=eb6f92&border_color=eb6f92&border_radius=10"
     />
   </a>
 </p>
