@@ -1,7 +1,7 @@
 <p align="center"><img src="bongo-cat-code.svg" width="300"></p>
 <h1 align="center"> Hi, I'm Beatriz Diniz!  </h1> 
 <p align="center">
-  <b>Computer Scientist • Junior Software Engineer • UAV Cybersecurity Researcher</b>
+  <b>Computer Science Master's Student • UAV Cybersecurity Researcher • Software Engineer</b>
   &nbsp;
   <img align="center" src="https://komarev.com/ghpvc/?username=Beatriz-Diniz&color=eb6f92&style=flat" alt="Profile views" />
 </p>
@@ -9,34 +9,35 @@
 <h2> About me </h2> 
 
 <ul>
-  <li>🎓 I graduated with a degree in Computer Science from the University of São Paulo in December 2025.</li>
+  <li>🎓 Computer Science Master's student at the University of São Paulo (USP), specializing in Intelligent Networks and cybersecurity for Unmanned Aerial Vehicles (UAVs).</li>
 
-  <li>💻 Interested in junior software engineering roles involving PHP, C/C++, Python, Linux, backend development, embedded systems, and robotics simulation.</li>
+  <li>🔬 Researcher at the Laboratory of Critical Embedded Systems (LSEC), developing simulation environments for cyber-physical attacks, including jamming and spoofing, and evaluating defensive countermeasures using PX4 and Gazebo.</li>
 
-  <li>🎮 Former 2D Game Developer at Fellowship of the Game, developing gameplay systems and mechanics with Unity and C#.</li>
+  <li>💼 Former Software Engineering Intern at Embraer, developing and maintaining web systems for the Defense sector with PHP, JavaScript, MySQL, and enterprise data integration.</li>
 
-  <li>🔬 Researcher at the Laboratory of Critical Embedded Systems (LSEC), focusing on UAV swarm communication systems, cybersecurity, and modern PX4/Gazebo-based simulation environments.</li>
+  <li>💻 Interested in software engineering, embedded systems, robotics simulation, cybersecurity, Linux, autonomous systems, and computer networks.</li>
 
-  <li>🐧 Linux user focused on development, simulation, cybersecurity research, and high-performance workflows.</li>
+  <li>🐧 Linux enthusiast focused on development, simulation, automation, and cybersecurity research.</li>
 </ul>
 
 <h2> Current Focus </h2>
 
 <ul>
-  	<li>🚁 UAV swarm communication protocols</li>
-	<li>📡 Jamming attack simulation for autonomous aerial systems</li>
-	<li>🐧 Linux-based development and simulation environments</li>
-	<li>⚙️ PX4, Gazebo Harmonic and robotics simulation</li>
+    <li>🚁 Cybersecurity for Unmanned Aerial Vehicles (UAVs)</li>
+    <li>📡 Jamming and spoofing attack simulation</li>
+    <li>🛡️ Development and evaluation of cyber-physical countermeasures</li>
+    <li>⚙️ PX4, Gazebo Harmonic and robotics simulation</li>
+    <li>🐧 Linux-based development and autonomous systems</li>
 </ul>
 
 <h2> Featured Projects </h2>
 
 <ul>
   <li>
-    <b>UAV Cybersecurity Simulation Research</b> 
-    <i>(private repository)</i> — 
-    Modernization and development of PX4/Gazebo-based UAV simulation environments for cybersecurity research, including jamming attack simulation, countermeasure evaluation, and communication reliability analysis in autonomous aerial systems.
-  </li>
+	  <b>UAV Cybersecurity Simulation Research</b>
+	  <i>(private repositories)</i> —
+	  Development of two PX4/Gazebo-based UAV cybersecurity simulation platforms: one focused on cyber-physical attack simulation and another integrating an educational interface for configuring attacks, evaluating countermeasures, and supporting cybersecurity training.
+	</li>
 
   <li>
     <a href="https://github.com/Beatriz-Diniz/Comparison-of-Mesh-Routing-Protocols-for-UAV-Swarming-Applications">
@@ -89,6 +90,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=94e2d5)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=a6e3a1)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=cba6f7)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=89b4fa)&nbsp;
 
 ![PX4](https://img.shields.io/badge/-PX4-05122A?style=flat&logo=px4&logoColor=94e2d5)&nbsp;
 ![Gazebo](https://img.shields.io/badge/-Gazebo-05122A?style=flat&logo=gazebo&logoColor=f38ba8)&nbsp;
@@ -136,7 +138,7 @@
 </p>
 
 <h3 align="center">
-Open to Software Engineering, Embedded Systems and UAV Research opportunities
+Open to Software Engineering, Cybersecurity, Autonomous Systems, and UAV Research opportunities
 </h3>
 
 <p align="center"><img src="gray0_ctp_on_line.svg?sanitize=true"/></p>
